@@ -1,0 +1,22 @@
+
+body{
+    background-color: #eaffd0;
+}
+h1{
+color:#aee6e6;
+}
+h3{
+color:#aee6e6;
+}
+hr{
+    background-color:#eaffd0;
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 3px;
+}
+img{
+    height: 180px;
+}
+
+    
